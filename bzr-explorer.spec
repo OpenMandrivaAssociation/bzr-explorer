@@ -18,7 +18,11 @@ Requires:       bzr >= 1.14
 Requires:	qbzr >= 0.11
 
 %description
-Bazaar Explorer is a desktop application for using the Bazaar Version Control System. It provides a high level interface to all commonly used features, launching "applets" from the QBzr plug-in to provide most of the functionality. Alternatively, the applets from the bzr-gtk plug-in can be used if it is installed. Bazaar Explorer runs on GNOME, KDE, Windows and Mac OS X. It requires Bazaar 1.14 or later and QBzr 0.11 or later.
+Bazaar Explorer is a desktop application for using the Bazaar Version Control System. It provides a 
+high level interface to all commonly used features, launching "applets" from the QBzr plug-in to 
+provide most of the functionality. Alternatively, the applets from the bzr-gtk plug-in can be used 
+if it is installed. Bazaar Explorer runs on GNOME, KDE, Windows and Mac OS X. It requires 
+Bazaar 1.14 or later and QBzr 0.11 or later.
 
 %prep
 %setup -q -n %{name}-%{version}
