@@ -1,6 +1,6 @@
 Name:           bzr-explorer
-Version:        0.9.0
-Release:        %mkrel 2
+Version:        0.10.0
+Release:        %mkrel 1
 Summary:        A GUI for Bazaar
 
 Group:          Development/Other
