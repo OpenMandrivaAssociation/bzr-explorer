@@ -41,6 +41,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root,-)
 %dir %py_puresitedir/bzrlib/plugins/explorer
 %py_puresitedir/bzrlib/plugins/explorer/*
-%py_puresitedir/explorer-%{version}-py2.6.egg-info
+%py_puresitedir/explorer-%{version}-*.egg-info
 %doc NEWS COPYING.txt
 
