@@ -1,5 +1,5 @@
 Name:           bzr-explorer
-Version:        1.1.2
+Version:        1.1.3
 Release:        %mkrel 1
 Summary:        A GUI for Bazaar
 
@@ -24,7 +24,7 @@ provide most of the functionality. Alternatively, the applets from the bzr-gtk p
 if it is installed. Bazaar Explorer runs on GNOME, KDE, Windows and Mac OS X.
 
 %prep
-%setup -q -n explorer
+%setup -q 
 
 
 %build
