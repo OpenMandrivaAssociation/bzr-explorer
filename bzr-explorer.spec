@@ -1,6 +1,6 @@
 Name:           bzr-explorer
 Version:        1.3.0
-Release:        1
+Release:        2
 Summary:        A GUI for Bazaar
 
 Group:          Development/Other
